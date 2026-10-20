@@ -6,13 +6,13 @@
 */
 const MATERIALS = {
   "01": [
-    {type: "photo", src: "media/01/1.png"},
-    {type: "photo", src: "media/01/1.png"},
-    {type: "photo", src: "media/01/2.png"},
-    {type: "photo", src: "media/01/3.png"},
-    {type: "photo", src: "media/01/4.png"},
-    {type: "photo", src: "media/01/5.png"},
-    {type: "photo", src: "media/01/6.png"}
+    {type: "photo", src: "media/01/1.jpg"},
+    {type: "photo", src: "media/01/1.jpg"},
+    {type: "photo", src: "media/01/2.jpg"},
+    {type: "photo", src: "media/01/3.jpg"},
+    {type: "photo", src: "media/01/4.jpg"},
+    {type: "photo", src: "media/01/5.jpg"},
+    {type: "photo", src: "media/01/6.jpg"}
         ],
   "02": [],
   "03": [],
