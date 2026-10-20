@@ -6,7 +6,7 @@
 */
 const MATERIALS = {
   "01": [
-    {type: "photo", src: "media/01/1.jpg"},
+    {type: "video", src: "https://max5-3.vkuser.net/?expires=1792570246882&srcIp=188.168.112.18&pr=95&srcAg=CHROME&ms=178.237.28.3&type=3&sig=zE33u58uGqg&ct=0&urls=130.49.229.111%3B130.49.232.35&clientType=51&zs=11&id=18859407903404&scl=1"},
     {type: "photo", src: "media/01/1.jpg"},
     {type: "photo", src: "media/01/2.jpg"},
     {type: "photo", src: "media/01/3.jpg"},
