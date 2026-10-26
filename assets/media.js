@@ -32,7 +32,7 @@ const MATERIALS = {
   ],
   "05": [],
   "06": [
-    {type: "video", src: "{type: "video", src: "https://www.dropbox.com/scl/fi/2hj65fu5vwg21797z7ygn/20471952378493.mp4?rlkey=d4al9r218qbpny9kuf46t6p8o&st=9jwecne0&raw=1"}"},
+    {type: "video", src: "{type: "video", src: "https://www.dropbox.com/scl/fi/zoxmz08qez3kcml9jsvzq/18934600895148.mp4?rlkey=it9uqtm3r8ivgpi47kcka1rj0&st=556m8kkk&raw=1"},
     {type: "photo", src: "media/06/61.jpg"},
     {type: "photo", src: "media/06/62.jpg"},
     {type: "photo", src: "media/06/63.jpg"},
@@ -47,7 +47,27 @@ const MATERIALS = {
   "07": [
     {type: "video", src: "https://www.dropbox.com/scl/fi/fzekvlcr8r65jnpsnrpor/19205476125399.mp4?rlkey=ovct9xqatf9p73v576v42amq9&st=heo8h2h2&raw=1"}
   ],
-  "08": [],
+  "08": [
+    {type: "video", src: "https://www.dropbox.com/scl/fi/9r6rkagmrd2qtga002dl2/18946098137772.mp4?rlkey=u0r0r714d7glu4cpogvxpo0k7&st=g7wgbinr&raw=1"}
+    {type: "photo", src: "media/08/81.jpg"},
+    {type: "photo", src: "media/08/82.jpg"},
+    {type: "photo", src: "media/08/83.jpg"},
+    {type: "photo", src: "media/08/84.jpg"},
+    {type: "photo", src: "media/08/85.jpg"},
+    {type: "photo", src: "media/08/86.jpg"},
+    {type: "photo", src: "media/08/87.jpg"},
+    {type: "photo", src: "media/08/88.jpg"},
+    {type: "photo", src: "media/08/89.jpg"},
+    {type: "photo", src: "media/08/810.jpg"},
+    {type: "photo", src: "media/08/811.jpg"},
+    {type: "photo", src: "media/08/812.jpg"},
+    {type: "photo", src: "media/08/813.jpg"},
+    {type: "photo", src: "media/08/814.jpg"},
+    {type: "photo", src: "media/08/815.jpg"},
+    {type: "photo", src: "media/08/816.jpg"},
+    {type: "photo", src: "media/08/817.jpg"},
+    {type: "photo", src: "media/08/818.jpg"}
+  ],
   "09": [],
   "10": [],
   "11": [],
