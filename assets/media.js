@@ -18,7 +18,18 @@ const MATERIALS = {
   "03": [
     {type: "video", src: "https://www.dropbox.com/scl/fi/2hj65fu5vwg21797z7ygn/20471952378493.mp4?rlkey=d4al9r218qbpny9kuf46t6p8o&st=9jwecne0&raw=1"}
   ],
-  "04": [],
+  "04": [
+    {type: "photo", src: "media/04/41.jpg"},
+    {type: "photo", src: "media/04/42.jpg"},
+    {type: "photo", src: "media/04/43.jpg"},
+    {type: "photo", src: "media/04/44.jpg"},
+    {type: "photo", src: "media/04/45.jpg"},
+    {type: "photo", src: "media/04/46.jpg"},
+    {type: "photo", src: "media/04/47.jpg"},
+    {type: "photo", src: "media/04/48.jpg"},
+    {type: "photo", src: "media/04/49.jpg"},
+    {type: "photo", src: "media/04/410.jpg"}
+  ],
   "05": [],
   "06": [],
   "07": [
