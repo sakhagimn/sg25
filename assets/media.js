@@ -32,7 +32,7 @@ const MATERIALS = {
   ],
   "05": [],
   "06": [
-    {type: "video", src: "{type: "video", src: "https://www.dropbox.com/scl/fi/zoxmz08qez3kcml9jsvzq/18934600895148.mp4?rlkey=it9uqtm3r8ivgpi47kcka1rj0&st=556m8kkk&raw=1"},
+    {type: "video", src: "https://www.dropbox.com/scl/fi/zoxmz08qez3kcml9jsvzq/18934600895148.mp4?rlkey=it9uqtm3r8ivgpi47kcka1rj0&st=556m8kkk&raw=1"},
     {type: "photo", src: "media/06/61.jpg"},
     {type: "photo", src: "media/06/62.jpg"},
     {type: "photo", src: "media/06/63.jpg"},
