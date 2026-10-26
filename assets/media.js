@@ -19,7 +19,9 @@ const MATERIALS = {
   "04": [],
   "05": [],
   "06": [],
-  "07": [],
+  "07": [
+    {type: "video", src: "https://www.dropbox.com/scl/fi/fzekvlcr8r65jnpsnrpor/19205476125399.mp4?rlkey=ovct9xqatf9p73v576v42amq9&st=heo8h2h2&dl=0"}
+  ],
   "08": [],
   "09": [],
   "10": [],
