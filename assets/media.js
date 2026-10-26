@@ -15,12 +15,14 @@ const MATERIALS = {
     {type: "photo", src: "media/01/6.jpg"}
         ],
   "02": [],
-  "03": [],
+  "03": [
+    {type: "video", src: "https://www.dropbox.com/scl/fi/2hj65fu5vwg21797z7ygn/20471952378493.mp4?rlkey=d4al9r218qbpny9kuf46t6p8o&st=9jwecne0&raw=1"}
+  ],
   "04": [],
   "05": [],
   "06": [],
   "07": [
-    {type: "video", src: "https://www.dropbox.com/scl/fi/fzekvlcr8r65jnpsnrpor/19205476125399.mp4?rlkey=ovct9xqatf9p73v576v42amq9&st=heo8h2h2&dl=0"}
+    {type: "video", src: "https://www.dropbox.com/scl/fi/fzekvlcr8r65jnpsnrpor/19205476125399.mp4?rlkey=ovct9xqatf9p73v576v42amq9&st=heo8h2h2&raw=1"}
   ],
   "08": [],
   "09": [],
