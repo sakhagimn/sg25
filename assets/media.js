@@ -48,7 +48,7 @@ const MATERIALS = {
     {type: "video", src: "https://www.dropbox.com/scl/fi/fzekvlcr8r65jnpsnrpor/19205476125399.mp4?rlkey=ovct9xqatf9p73v576v42amq9&st=heo8h2h2&raw=1"}
   ],
   "08": [
-    {type: "video", src: "https://www.dropbox.com/scl/fi/9r6rkagmrd2qtga002dl2/18946098137772.mp4?rlkey=u0r0r714d7glu4cpogvxpo0k7&st=g7wgbinr&raw=1"}
+    {type: "video", src: "https://www.dropbox.com/scl/fi/9r6rkagmrd2qtga002dl2/18946098137772.mp4?rlkey=u0r0r714d7glu4cpogvxpo0k7&st=g7wgbinr&raw=1"},
     {type: "photo", src: "media/08/81.jpg"},
     {type: "photo", src: "media/08/82.jpg"},
     {type: "photo", src: "media/08/83.jpg"},
