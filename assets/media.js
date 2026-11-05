@@ -121,7 +121,9 @@ const MATERIALS = {
     {type: "photo", src: "media/14/1411.jpg"},
     {type: "photo", src: "media/14/1412.jpg"},
     {type: "photo", src: "media/14/1413.jpg"},
-    {type: "photo", src: "media/14/1414.jpg"}
+    {type: "photo", src: "media/14/1414.jpg"},
+    {type: "photo", src: "media/14/1415.jpg"},
+    {type: "video", src: "media/14/1416.mp4"},
   ]
 };
 const section = document.querySelector('.materials');
