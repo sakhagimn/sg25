@@ -107,7 +107,22 @@ const MATERIALS = {
   "11": [],
   "12": [],
   "13": [],
-  "14": []
+  "14": [
+    {type: "photo", src: "media/14/1401.jpg"},
+    {type: "photo", src: "media/14/1402.jpg"},
+    {type: "photo", src: "media/14/1403.jpg"},
+    {type: "photo", src: "media/14/1404.jpg"},
+    {type: "photo", src: "media/14/1405.jpg"},
+    {type: "photo", src: "media/14/1406.jpg"},
+    {type: "photo", src: "media/14/1407.jpg"},
+    {type: "photo", src: "media/14/1408.jpg"},
+    {type: "photo", src: "media/14/1409.jpg"},
+    {type: "photo", src: "media/14/1410.jpg"},
+    {type: "photo", src: "media/14/1411.jpg"},
+    {type: "photo", src: "media/14/1412.jpg"},
+    {type: "photo", src: "media/14/1413.jpg"},
+    {type: "photo", src: "media/14/1414.jpg"}
+  ]
 };
 const section = document.querySelector('.materials');
 if (section) {
