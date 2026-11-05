@@ -103,7 +103,9 @@ const MATERIALS = {
     {type: "photo", src: "media/09/925.jpg"},
     {type: "photo", src: "media/09/926.jpg"}
   ],
-  "10": [],
+  "10": [
+    {type: "video", src: "https://www.dropbox.com/scl/fi/1u1pgpweqr985cmnqafse/19004658617004.mp4?rlkey=3pb02behexx7sm11k37h2vwl3&st=nztdll6w&raw=1"}
+  ],
   "11": [],
   "12": [
     {type: "photo", src: "media/12/1201.jpg"},
